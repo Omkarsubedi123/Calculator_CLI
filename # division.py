@@ -1,5 +1,6 @@
 # division.py
-
+def add(a, b):
+    return a+b
 def divide(a, b):
     """Returns the result of division, handling division by zero."""
     if b == 0:
