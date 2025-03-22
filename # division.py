@@ -1,4 +1,8 @@
 # division.py
+#Subtractgit add .
+
+def Subtract(a,b):
+    return a-b
 def add(a, b):
     return a+b
 def multiply(a, b):
